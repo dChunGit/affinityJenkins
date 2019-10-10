@@ -36,16 +36,5 @@ def highest_affinity(site_list, user_list, time_list):
         print("HI")
         print("HI")
         print("HI")
-        print("HI")
-        print("HI")
-        print("HI")
-        print("HI")
-        print("HI")
-        print("HI")
-        print("HI")
-        print("HI")
-        print("HI")
-        print("HI")
-
 
     return ("0", "1")
